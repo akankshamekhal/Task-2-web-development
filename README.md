@@ -1,1 +1,1 @@
-# Task-2-web-development
+# Tech-Edu-Task-2
